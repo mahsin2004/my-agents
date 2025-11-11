@@ -7,6 +7,7 @@ Let's build a system with three specialized agents:
 2. **Writer Agent** - Writes a blog post
 3. **Editor Agent** - Edits a blog post draft for clarity and structure
 
+<img width="1000" src="https://storage.googleapis.com/github-repo/kaggle-5days-ai/day1/sequential-agent.png" alt="Sequential Agent" />
 
 ---
 

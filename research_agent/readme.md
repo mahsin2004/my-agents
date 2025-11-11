@@ -5,7 +5,7 @@ Let's build a system with two specialized agents:
 1. **Research Agent** - Searches for information using Google Search
 2. **Summarizer Agent** - Creates concise summaries from research findings
 
-
+<img width="800" src="https://storage.googleapis.com/github-repo/kaggle-5days-ai/day1/multi-agent-team.png" alt="Multi-agent Team" />
 
 ---
 ### Section 2
